@@ -1,0 +1,19 @@
+{
+  "name": "beginner-node-book",
+  "version": "1.0.0",
+  "description": "Node beginner book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mclise/node-beginner-book.git"
+  },
+  "author": "Matt Clise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mclise/node-beginner-book/issues"
+  },
+  "homepage": "https://github.com/mclise/node-beginner-book"
+}

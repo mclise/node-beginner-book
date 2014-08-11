@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mclise/node-beginner-book/issues"
   },
-  "homepage": "https://github.com/mclise/node-beginner-book"
+  "homepage": "https://github.com/mclise/node-beginner-book",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
 }
